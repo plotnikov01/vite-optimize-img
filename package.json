@@ -1,0 +1,19 @@
+{
+  "name": "vite-change-img",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "sharp": "^0.33.4",
+    "svgo": "^3.3.2",
+    "vite-plugin-image-optimizer": "^1.1.8"
+  }
+}
